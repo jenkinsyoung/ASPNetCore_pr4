@@ -20,3 +20,11 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.container_head{
+  font-size: 36px;
+  text-align: center;
+  font-weight: 600;
+  height: 55px;
+  margin-top: 20px;
+}

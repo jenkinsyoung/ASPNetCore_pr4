@@ -7,8 +7,8 @@ public class Message
     [Key]
     public int id{ get; set; }
 
-    public int from_user_id { get; set; }
-    public int to_user_id { get; set; }
+    public int from_user { get; set; }
+    public int to_user { get; set; }
     public string? title { get; set; }
     public string? body { get; set; }
     public DateTime send_date { get; set; }
