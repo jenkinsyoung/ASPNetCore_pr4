@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Главная страница";
+}
+@model IEnumerable<ASPNetCore_pr4.Models.Users>
+<h2>Список пользователей</h2>
+@* <p><a asp-action="Create">Добавить город</a></p> *@
+<table class="table">
+ <tr><th>Код</th><th>Название</th></tr>
+ @foreach (var item in Model)
+ {
+ <tr>
+ <td>@item.id</td>
+ <td>@item.name</td>
+ </tr>
+ }
+</table>
+
+
+<div class="text-center">
+    <h1 class="display-4">Привет!</h1>
+    
+</div>
