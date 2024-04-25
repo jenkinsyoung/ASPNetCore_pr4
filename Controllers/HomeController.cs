@@ -16,11 +16,6 @@ public class HomeController : Controller
         return View(db.Users);
     }
 
-    public IActionResult Register()
-    {
-        return View();
-    }
-
     public IActionResult SingIN()
     {
         return View();

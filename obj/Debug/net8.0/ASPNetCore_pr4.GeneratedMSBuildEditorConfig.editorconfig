@@ -22,12 +22,12 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Documents/корпоративка/ASPNetCore_pr4/Views/Home/Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
+[c:/Users/Admin/Documents/корпоративка/ASPNetCore_pr4/Views/Register/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Documents/корпоративка/ASPNetCore_pr4/Views/Home/SingIN.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaW5nSU4uY3NodG1s
+[c:/Users/Admin/Documents/корпоративка/ASPNetCore_pr4/Views/Register/SingIN.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcU2luZ0lOLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/Users/Admin/Documents/корпоративка/ASPNetCore_pr4/Views/Shared/Error.cshtml]
